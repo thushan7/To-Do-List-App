@@ -5,5 +5,7 @@ public class Runner {
     Hello printer = new Hello();
 
     printer.sayHello();
+    printer.yellHello();
+    printer.printNum();
   }
 }
