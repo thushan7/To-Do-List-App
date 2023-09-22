@@ -1,0 +1,14 @@
+plugins {
+    id 'java'
+}
+
+
+repositories {
+    mavenCentral()
+}
+
+task echo;
+echo.doFirst {
+    println "To run the program:\njava -cp build/classes/java/main Runner"
+}
+
