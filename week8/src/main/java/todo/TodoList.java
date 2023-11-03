@@ -1,4 +1,4 @@
-//javadoc -d docs --source-path src/main/java
+//javadoc -d docs --source-path src/main/java todo files ui
 //CREATING JAVADOCS
 
 package todo;
